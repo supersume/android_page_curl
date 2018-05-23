@@ -1,6 +1,6 @@
 # android_page_curl
 
-Xamarin port of the iOS library android_page_curl for creating page curl/flip effect on Android using OpenGL ES.
+Xamarin port of the Android library android_page_curl for creating page curl/flip effect on Android using OpenGL ES.
 
 NOTE
 ====
